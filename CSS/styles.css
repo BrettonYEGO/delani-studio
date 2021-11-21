@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+#intro{
+    padding: 8%;
+    color: white;
+    background-image:url(../images/h1img.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 680px;
+    width: 100%;
+}
+
+ #steph{
+    color: white;
+    background-image:url(../images/s_image\ \(1\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 380px;
+    padding-top: 8%;
+    width: 100%;
+}
+
+#final{
+    background-image:url(../images/del.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 600px;
+    padding-top: 5%;
+    width: 100%;
+}
+
+.input-field {
+    background: none;
+    width: 500px;
+    height: 50px;
+    margin-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-color: white;
+    outline: none;
+    background: transparent;
+}
+
+.input-field1 {
+    width: 700px;
+    margin-top: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-color: white;
+    outline: none;
+    background: transparent;
+}
+
+.hovering :hover {
+    opacity: 0.5;
+}
+
+#mouse {
+    padding-top: 190px;
+}
+
+.about {
+    padding: 20px;
+}
+
+.what {
+    padding: 10px;
+}
+
+.hidden {
+    display: none;
+}
+
+#port1 img {
+    width: 100%;
+}
+
+footer {
+    padding: 50px;
+}
+#mouse-hover1{
+    position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
+#mouse-hover2{
+    position: absolute;
+    display: none;
+    color:maroon;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
+#mouse-hover3{
+    position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
+#mouse-hover4{
+    position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
+#mouse-hover5{
+    position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
+#mouse-hover6{
+    position: absolute;
+    display: none;
+    color: rgb(131, 0, 0);
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
+#mouse-hover7{
+    position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}#mouse-hover8{
+    position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
