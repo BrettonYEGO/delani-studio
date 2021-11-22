@@ -12,11 +12,11 @@ Basic Git knowledge, including an installed version of Git.
 Want to contribute? Great!
 To fix a bug or enhance an existing module, follow these steps:S
 - Fork the repo
-- Create a new branch (git checkout -b improve-feature)
+- Create a new branch 
 - Make the appropriate changes in the files
 - Add changes to reflect the changes made
-- Commit your changes (git commit -am 'Improve feature')
-- Push to the branch (git push origin improve-feature)
+- Commit your changes
+- Push to the branch
 - Create a Pull Request
 ## Known Bugs
 The output is not always right.
