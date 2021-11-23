@@ -8,12 +8,11 @@
     background-repeat: no-repeat;
     height: 680px;
     width: 100%;
-    text-decoration: wavy;
 }
 
  #steph{
     color: white;
-    background-image:url(../images/s_image\ \(1\).jpg);
+    background-image:url(../images/s_image.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -68,6 +67,10 @@
 
 .what {
     padding: 10px;
+}
+
+.hidden {
+    display: none;
 }
 
 #port1 img {
